@@ -13,7 +13,7 @@
 		"core" : 
 		{
 			"name" : "Core",
-			"version" : "0.0.0-rc.13",
+			"version" : "0.0.0-rc.16",
 			"repo" : "https://github.com/sp-framework/core"
 		},
 		"apptype" : 
@@ -26,13 +26,13 @@
 		[
 			{
 				"name" : "MfTransactions",
-				"version" : "0.10.0",
+				"version" : "0.19.0",
 				"repo" : "https://github.com/sp-fintech-mutualfunds/fintech-packages-mutualfunds-mftransactions"
 			},
 			
 			{
 				"name" : "EtfPortfolios",
-				"version" : "0.0.0",
+				"version" : "0.3.0",
 				"repo" : "https://github.com/sp-fintech-auetfs/fintech-packages-etf-etfportfolios"
 			}
 		],
